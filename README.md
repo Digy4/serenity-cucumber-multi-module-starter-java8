@@ -1,7 +1,7 @@
-# testng-selenium-starter
-TestNG and Selenium starter to use with DigyRunner
+# serenity-cucumber-multi-module-starter-java8
+Serenity BDD starter for multi module maven project to use with DigyRunner
 
-[TestNG](https://testng.org) and [Selenium](https://www.selenium.dev/) Integration with DigyRunner to be able to run against any Remote selenium grid and visualise in Digy Dashboard.
+Integration with DigyRunner to be able to run locally or against any Remote selenium grid and visualise in Digy Dashboard.
 
 
 ![Digy4 Logo](https://digy4.com/wp-content/uploads/2021/12/logo.png)
