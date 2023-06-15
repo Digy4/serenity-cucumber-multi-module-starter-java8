@@ -18,7 +18,7 @@ TestNG and Selenium starter to use with DigyRunner
 - Add a Project name that (eg: Demo) and other details and submit it
 - Click Profile under user icon on the top right section of the dashboard
 - Under Credentials section, copy Client ID and Client Secret and have it somewhere safe
-- Clone the repository. Run `git clone https://github.com/Digy4/serenity-cucumber-starter`
+- Clone the repository. Run `git clone https://github.com/Digy4/serenity-cucumber-multi-module-starter-java8`
 - cd serenity-cucumber-starter
 - For -Ddigy4.projectName=, use the project name you have created above (eg: Demo)
 - For digy4.client_id use the client ID and digy4.client_secret, use the client secret from above
