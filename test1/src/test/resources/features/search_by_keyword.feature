@@ -1,4 +1,4 @@
-Feature: Search by keyword
+Feature: Search by keyword 1
 
   Scenario: Searching for cucumber
     Given Sergey is researching things on the internet

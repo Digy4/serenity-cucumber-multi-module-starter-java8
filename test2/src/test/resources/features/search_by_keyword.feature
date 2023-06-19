@@ -1,4 +1,4 @@
-Feature: Search by keyword
+Feature: Search by keyword 2
 
   Scenario: Searching for Wikipedia
     Given Sergey is researching things on the internet

@@ -4,8 +4,6 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.serenitybdd.screenplay.Actor;
-import net.serenitybdd.screenplay.actors.OnStage;
-import net.serenitybdd.screenplay.actors.OnlineCast;
 import net.serenitybdd.screenplay.ensure.Ensure;
 import starter.navigation.NavigateTo;
 import starter.search.LookForInformation;
@@ -31,4 +29,5 @@ public class SearchStepDefinitions {
                 Ensure.that(WikipediaArticle.HEADING).hasText(term)
         );
     }
+
 }
