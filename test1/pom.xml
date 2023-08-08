@@ -15,7 +15,7 @@
 
     <properties>
         <serenity.version>3.6.21</serenity.version>
-        <digyrunner.version>0.0.78</digyrunner.version>
+        <digyrunner.version>0.0.80-SNAPSHOT</digyrunner.version>
     </properties>
 
     <dependencies>
