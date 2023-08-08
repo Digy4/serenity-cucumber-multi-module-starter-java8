@@ -22,7 +22,7 @@
         <encoding>UTF-8</encoding>
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
-        <digyrunner.version>0.0.78</digyrunner.version>
+        <digyrunner.version>0.0.80-SNAPSHOT</digyrunner.version>
         <parallel.tests>10</parallel.tests>
     </properties>
     <dependencies>
