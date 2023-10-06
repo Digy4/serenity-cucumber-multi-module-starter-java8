@@ -20,8 +20,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <serenity.version>3.6.21</serenity.version>
         <encoding>UTF-8</encoding>
-        <tags></tags>
-        <webdriver.base.url></webdriver.base.url>
+        <tags/>
+        <webdriver.base.url/>
         <digyrunner.version>0.0.78</digyrunner.version>
         <parallel.tests>10</parallel.tests>
     </properties>
@@ -104,7 +104,7 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.2.10</version>
+            <version>1.4.11</version>
         </dependency>
         <dependency>
             <groupId>org.assertj</groupId>
