@@ -18,10 +18,10 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>3.6.21</serenity.version>
+        <serenity.version>4.2.8</serenity.version>
         <encoding>UTF-8</encoding>
-        <tags></tags>
-        <webdriver.base.url></webdriver.base.url>
+        <tags/>
+        <webdriver.base.url/>
         <digyrunner.version>0.0.78</digyrunner.version>
         <parallel.tests>10</parallel.tests>
     </properties>
