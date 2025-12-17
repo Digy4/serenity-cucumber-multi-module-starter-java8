@@ -20,8 +20,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <serenity.version>3.6.21</serenity.version>
         <encoding>UTF-8</encoding>
-        <tags></tags>
-        <webdriver.base.url></webdriver.base.url>
+        <tags/>
+        <webdriver.base.url/>
         <digyrunner.version>0.0.78</digyrunner.version>
         <parallel.tests>10</parallel.tests>
     </properties>
@@ -54,7 +54,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.8.2</version>
+            <version>4.14.0</version>
         </dependency>
         <dependency>
             <groupId>net.serenity-bdd</groupId>
